@@ -1,0 +1,11 @@
+.upload-button {
+  color: #6c757d;
+  background: #fff;
+  border-color: #fff;
+}
+.upload-button svg{
+    fill: #6c757d;
+}
+.upload-button:hover svg{
+    fill: #fff!important;
+}

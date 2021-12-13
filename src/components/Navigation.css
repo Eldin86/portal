@@ -1,0 +1,33 @@
+.navigation{
+  background: #f8f9fa;
+}
+button:focus {
+    box-shadow: none !important;
+}
+.main-navbar-container {
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+}
+.main-navbar-container .navbar-form .input-group {
+  position: relative;
+}
+
+.navbar .navbar-logo {
+  margin-left: 8px;
+}
+.main-navbar .nav-link {
+  color: #2355d4 !important;
+}
+
+.main-navbar .nav-link.active {
+  background: #cccfcc;
+}
+
+@media (min-width: 992px){
+    .main-navbar-container .navbar-form .input-group input {
+        width: 250px;
+        position: absolute;
+        right: 39px;
+        bottom: -3px;
+      }
+}

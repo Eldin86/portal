@@ -1,0 +1,9 @@
+#root{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-dashboard-form{
+    background: #C4C4C4;
+}

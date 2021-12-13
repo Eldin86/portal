@@ -1,0 +1,12 @@
+.category .category-item {
+  border: 1px solid;
+  border-color: rgba(0, 0, 0, 0.25);
+}
+.category .card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.category .category-item .card-title{
+    color: #263B87;
+}

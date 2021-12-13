@@ -1,0 +1,12 @@
+.single-post .single-post-image{
+    width: 100%;
+}
+.single-post .post-content, .single-post .post-comments{
+    background: #C4C4C4;
+}
+.single-post .post-comment:not(:last-child){
+    border-bottom: 1px solid #000000;
+}
+.category-title{
+    color: #263B87;
+}
